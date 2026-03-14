@@ -21,3 +21,4 @@ Flattened array: [25 60 12 30 65 10 28 70 14 32 55  9]
 Reshaped array:
  [[25 60 12 30 65 10]
  [28 70 14 32 55  9]]
+plt.savefig("figures/temperature_plot.png")

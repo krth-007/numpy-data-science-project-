@@ -80,6 +80,7 @@ These operations form the basis for preprocessing tasks in machine learning pipe
 ## Reproducibility Instructions
 Step 1 — Install dependencies
 pip install numpy matplotlib
+
 Step 2 — Run the program
 python main.py
 

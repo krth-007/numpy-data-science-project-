@@ -33,15 +33,8 @@ Number of features: 3
 Data type: integer numerical matrix
 
 Matrix representation:
+X∈R4×3
 
-𝑋
-∈
-𝑅
-4
-×
-3
-X∈R
-4×3
 ## Data Processing Pipeline
 A simplified data science pipeline implemented in this project is shown below.
 

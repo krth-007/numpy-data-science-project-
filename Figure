@@ -1,0 +1,23 @@
+ Dataset:
+ [[25 60 12]
+ [30 65 10]
+ [28 70 14]
+ [32 55  9]]
+Mean: 34.166666666666664
+Median: 29.0
+Standard Deviation: 21.594109279050056
+Minimum: 9
+Maximum: 70
+Column Mean: [28.75 62.5  11.25]
+Indexed element: 10
+First two rows:
+ [[25 60 12]
+ [30 65 10]]
+Humidity column: [60 65 70 55]
+Subset where temperature > 28:
+ [[30 65 10]
+ [32 55  9]]
+Flattened array: [25 60 12 30 65 10 28 70 14 32 55  9]
+Reshaped array:
+ [[25 60 12 30 65 10]
+ [28 70 14 32 55  9]]

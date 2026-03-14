@@ -83,23 +83,5 @@ pip install numpy matplotlib
 Step 2 — Run the program
 python main.py
 
-## Project Structure
-numpy-data-science-project/
-│
-├── data/
-│
-├── notebooks/
-│
-├── src/
-│   └── main.py
-│
-├── figures/
-│
-├── README.md
-│
-├── requirements.txt
-│
-└── .gitignore
-
 ## Conclusion
 This project demonstrates fundamental numerical computing operations used in data science pipelines. Using NumPy's vectorized operations allows efficient handling of multidimensional datasets while minimizing computational overhead. Such techniques are widely used in feature engineering, statistical analysis, and machine learning preprocessing tasks.
